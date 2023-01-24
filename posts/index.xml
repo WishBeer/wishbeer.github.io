@@ -6,8 +6,23 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://wishbeer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Caret</title>
+            <link>https://wishbeer.github.io/posts/2023/01/caret/</link>
+            <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://wishbeer.github.io/posts/2023/01/caret/</guid>
+            <description>Nedense Markdown editor&amp;rsquo;lere karşın bir zaafım var. MacBook kullandığım zamanlarda OmmWriter ile başladığım süreçte daha sonra Byword kullandım. Son zamanlarda Ulysses ile devam ediyorum.
+Windows bu alanda program bulması daha zor bir platform olmuştur. Zaman zaman çeşitli programları denedim ancak hiçbir zaman istediğim özelliklere sahip doğru düzgün çalışan bir program bulamadım.
+Caret ise yıllardır bulamadığım cevher oldu benim için. Hemen hemen aradığım tüm özelliklere sahip, fazlasıyla stabil ve kullanması gayet keyifli.</description>
+            <content type="html"><![CDATA[<p>Nedense Markdown editor&rsquo;lere karşın bir zaafım var. MacBook kullandığım zamanlarda <a href="https://ommwriter.com/"><strong>OmmWriter</strong></a> ile başladığım süreçte daha sonra <a href="https://bywordapp.com/"><strong>Byword</strong></a> kullandım. Son zamanlarda <a href="https://ulysses.app/"><strong>Ulysses</strong></a> ile devam ediyorum.</p>
+<p>Windows bu alanda program bulması daha zor bir platform olmuştur. Zaman zaman çeşitli programları denedim ancak hiçbir zaman istediğim özelliklere sahip doğru düzgün çalışan bir program bulamadım.</p>
+<p><a href="https://caret.io/"><strong>Caret</strong></a> ise yıllardır bulamadığım cevher oldu benim için. Hemen hemen aradığım tüm özelliklere sahip, fazlasıyla stabil ve kullanması gayet keyifli. Ancak geliştirilme süreci sona ermiş gibi. Uzun zamandır update edilmemiş, geliştiricileri <a href="https://nota.md/"><strong>Nota</strong></a> isminde yeni bir program üzerinde çalışıyorlar artık.</p>
+]]></content>
+        </item>
         
         <item>
             <title>TweetBot&#39;a Veda!</title>
@@ -26,21 +41,6 @@ Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın d�
 <p>Sadece takip ettiklerimi göstermesi ve reklamları timeline&rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.</p>
 <p>Elon Musk sonrası Twitter&rsquo;ın fazlasıyla değişeceğini tahmin ediyordum, twitter dışındaki arabirimlerin de API&rsquo;ye ulaşımına elbette yasak getirecekti yeni Twitter yönetimi, hiç şaşırmadım.</p>
 <p>Geçtiğimiz haftalarda TweetBot vbe diğerlerinin API&rsquo;ye ulaşması engellenince <a href="https://mastodon.world/@omerb">Mastodon</a>&lsquo;a doğru yol almak gerekli oldu. TweetBot geliştiricileri de zaten Mastodon için Ivory isimli programı hazırlamaya başlamışlardı.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Caret</title>
-            <link>https://wishbeer.github.io/posts/2022/12/caret/</link>
-            <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-            
-            <guid>https://wishbeer.github.io/posts/2022/12/caret/</guid>
-            <description>Nedense Markdown editor&amp;rsquo;lere karşın bir zaafım var. MacBook kullandığım zamanlarda OmmWriter ile başladığım süreçte daha sonra Byword kullandım. Son zamanlarda Ulysses ile devam ediyorum.
-Windows bu alanda program bulması daha zor bir platform olmuştur. Zaman zaman çeşitli programları denedim ancak hiçbir zaman istediğim özelliklere sahip doğru düzgün çalışan bir program bulamadım.
-Caret ise yıllardır bulamadığım cevher oldu benim için. Hemen hemen aradığım tüm özelliklere sahip, fazlasıyla stabil ve kullanması gayet keyifli.</description>
-            <content type="html"><![CDATA[<p>Nedense Markdown editor&rsquo;lere karşın bir zaafım var. MacBook kullandığım zamanlarda <a href="https://ommwriter.com/"><strong>OmmWriter</strong></a> ile başladığım süreçte daha sonra <a href="https://bywordapp.com/"><strong>Byword</strong></a> kullandım. Son zamanlarda <a href="https://ulysses.app/"><strong>Ulysses</strong></a> ile devam ediyorum.</p>
-<p>Windows bu alanda program bulması daha zor bir platform olmuştur. Zaman zaman çeşitli programları denedim ancak hiçbir zaman istediğim özelliklere sahip doğru düzgün çalışan bir program bulamadım.</p>
-<p><a href="https://caret.io/"><strong>Caret</strong></a> ise yıllardır bulamadığım cevher oldu benim için. Hemen hemen aradığım tüm özelliklere sahip, fazlasıyla stabil ve kullanması gayet keyifli. Ancak geliştirilme süreci sona ermiş gibi. Uzun zamandır update edilmemiş, geliştiricileri <a href="https://nota.md/"><strong>Nota</strong></a> isminde yeni bir program üzerinde çalışıyorlar artık.</p>
 ]]></content>
         </item>
         
