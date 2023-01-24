@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Wish You Were Beer!</title>
+    <link>https://wishbeer.github.io/de/categories/hugo/</link>
+    <description>Recent content in Hugo on Wish You Were Beer!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://wishbeer.github.io/de/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Création d&#39;un nouveau thème</title>
+      <link>https://wishbeer.github.io/de/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://wishbeer.github.io/de/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</guid>
+      <description>TweetBot&amp;rsquo;a Veda! Twitter&amp;rsquo;a 2008 yılında kaydolmuşum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amac o an ne yaptığını bildirmekten ibaretti.
+Yıllar geçtikçe işler değişti, Twitter büyüdü, artık takip edilmeyen hesapları bile size zorla göstermeye, aralara reklamlar almaya başladı.
+İşte o zamanlar Twitter&amp;rsquo;a sadece kendi timeline&amp;rsquo;ınıza ulaşmayı sağlayan programlar yaygınlaşmaya başladı. Echofon, Twitterrific, Tweetie&amp;hellip;ve TweetBot!
+Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.</description>
+    </item>
+    
+  </channel>
+</rss>
