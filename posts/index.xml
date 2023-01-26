@@ -6,8 +6,21 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://wishbeer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Darkest Story of Garfield</title>
+            <link>https://wishbeer.github.io/posts/2023/01/darkest-story-of-garfield/</link>
+            <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://wishbeer.github.io/posts/2023/01/darkest-story-of-garfield/</guid>
+            <description>Published on October 23-28, 1989, Garfield comic strips are shown as the darkest and most interesting story in 45 years of Garfield history. Garfield confronts the existential fear of loneliness and lost in time and cannot accept it&amp;hellip;</description>
+            <content type="html"><![CDATA[<p><img src="https://github.com/WishBeer/wishbeer.github.io/blob/main/img/posts/Darkest.Garfield.png" alt="">
+Published on October 23-28, 1989, Garfield comic strips are shown as the darkest and most interesting story in 45 years of Garfield history.
+Garfield confronts the existential fear of loneliness and lost in time and cannot accept it&hellip;</p>
+]]></content>
+        </item>
         
         <item>
             <title>Caret</title>
@@ -15,121 +28,12 @@
             <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
             
             <guid>https://wishbeer.github.io/posts/2023/01/caret/</guid>
-            <description>Nedense Markdown editor&amp;rsquo;lere karşın bir zaafım var. MacBook kullandığım zamanlarda OmmWriter ile başladığım süreçte daha sonra Byword kullandım. Son zamanlarda Ulysses ile devam ediyorum.
-Windows bu alanda program bulması daha zor bir platform olmuştur. Zaman zaman çeşitli programları denedim ancak hiçbir zaman istediğim özelliklere sahip doğru düzgün çalışan bir program bulamadım.
-Caret ise yıllardır bulamadığım cevher oldu benim için. Hemen hemen aradığım tüm özelliklere sahip, fazlasıyla stabil ve kullanması gayet keyifli.</description>
-            <content type="html"><![CDATA[<p>Nedense Markdown editor&rsquo;lere karşın bir zaafım var. MacBook kullandığım zamanlarda <a href="https://ommwriter.com/"><strong>OmmWriter</strong></a> ile başladığım süreçte daha sonra <a href="https://bywordapp.com/"><strong>Byword</strong></a> kullandım. Son zamanlarda <a href="https://ulysses.app/"><strong>Ulysses</strong></a> ile devam ediyorum.</p>
-<p>Windows bu alanda program bulması daha zor bir platform olmuştur. Zaman zaman çeşitli programları denedim ancak hiçbir zaman istediğim özelliklere sahip doğru düzgün çalışan bir program bulamadım.</p>
-<p><a href="https://caret.io/"><strong>Caret</strong></a> ise yıllardır bulamadığım cevher oldu benim için. Hemen hemen aradığım tüm özelliklere sahip, fazlasıyla stabil ve kullanması gayet keyifli. Ancak geliştirilme süreci sona ermiş gibi. Uzun zamandır update edilmemiş, geliştiricileri <a href="https://nota.md/"><strong>Nota</strong></a> isminde yeni bir program üzerinde çalışıyorlar artık.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>TweetBot&#39;a Veda!</title>
-            <link>https://wishbeer.github.io/posts/2023/01/tweetbota-veda/</link>
-            <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
-            
-            <guid>https://wishbeer.github.io/posts/2023/01/tweetbota-veda/</guid>
-            <description>Twitter&amp;rsquo;a 2008 yılında kaydolmuşum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amac o an ne yaptığını bildirmekten ibaretti.
-Yıllar geçtikçe işler değişti, Twitter büyüdü, artık takip edilmeyen hesapları bile size zorla göstermeye, aralara reklamlar almaya başladı.
-İşte o zamanlar Twitter&amp;rsquo;a sadece kendi timeline&amp;rsquo;ınıza ulaşmayı sağlayan programlar yaygınlaşmaya başladı. Echofon, Twitterrific, Tweetie&amp;hellip;ve TweetBot!
-Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.</description>
-            <content type="html"><![CDATA[<p><img src="https://darkestnotes.org/wp-content/uploads/2023/01/TweetBot.Ends_.jpeg" alt="TweetBot.Ends"></p>
-<p>Twitter&rsquo;a 2008 yılında kaydolmuşum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&rsquo;daki tek amac <strong><em>o an ne yaptığını</em></strong> bildirmekten ibaretti.</p>
-<p>Yıllar geçtikçe işler değişti, Twitter büyüdü, artık takip edilmeyen hesapları bile size zorla göstermeye, aralara reklamlar almaya başladı.</p>
-<p>İşte o zamanlar Twitter&rsquo;a sadece kendi timeline&rsquo;ınıza ulaşmayı sağlayan programlar yaygınlaşmaya başladı. <em>Echofon</em>, <em>Twitterrific</em>, <em>Tweetie</em>&hellip;ve <em><strong>TweetBot</strong></em>!</p>
-<p>Sadece takip ettiklerimi göstermesi ve reklamları timeline&rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.</p>
-<p>Elon Musk sonrası Twitter&rsquo;ın fazlasıyla değişeceğini tahmin ediyordum, twitter dışındaki arabirimlerin de API&rsquo;ye ulaşımına elbette yasak getirecekti yeni Twitter yönetimi, hiç şaşırmadım.</p>
-<p>Geçtiğimiz haftalarda TweetBot vbe diğerlerinin API&rsquo;ye ulaşması engellenince <a href="https://mastodon.world/@omerb">Mastodon</a>&lsquo;a doğru yol almak gerekli oldu. TweetBot geliştiricileri de zaten Mastodon için Ivory isimli programı hazırlamaya başlamışlardı.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Wish You Were Beer</title>
-            <link>https://wishbeer.github.io/posts/2022/12/wish-you-were-beer/</link>
-            <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
-            
-            <guid>https://wishbeer.github.io/posts/2022/12/wish-you-were-beer/</guid>
-            <description>Try to create a nice blog with Hugo. Name fits right&amp;hellip;</description>
-            <content type="html"><![CDATA[<p><img src="https://wishbeer.neocities.org/img/image.jpg" alt="image"></p>
-<p>Try to create a nice blog with Hugo. Name fits right&hellip;</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Ses Kartları Hakkında</title>
-            <link>https://wishbeer.github.io/posts/2022/12/ses-kartlar%C4%B1-hakk%C4%B1nda/</link>
-            <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
-            
-            <guid>https://wishbeer.github.io/posts/2022/12/ses-kartlar%C4%B1-hakk%C4%B1nda/</guid>
-            <description>Bilgisayarlardaki ses sistemleri yıllardır ilgimi çekmiş, üzerlerinde sayısız araştırma yapmışımdır ancak bilgilerim hala fazlasıyla yüzeyseldir. Her yıl belli zamanlarda biraz nostalji yaparak eski bilgisayarlar, ses kartları, grafik kartları, oyunlar hakkında tekrar tekrar araştırma yapar bildiklerimi tekrar tekrar yeniden öğrenirim.
-Ses kartları üzerinde çok çalıştım, özellikle Sound Blaster ve modelleri hakkında. Pek çok ince detayı biliyor olmama karşın internetteki bilgi kirliliği, kimi anlatımların tam doğru yerine dolaylı olarak açıklanması sebebiyle pek çok şeyi yalan yanlış öğrenmiş bulunmaktayım.</description>
-            <content type="html"><![CDATA[<p>Bilgisayarlardaki ses sistemleri yıllardır ilgimi çekmiş, üzerlerinde sayısız araştırma yapmışımdır ancak bilgilerim hala fazlasıyla yüzeyseldir. Her yıl belli zamanlarda biraz nostalji yaparak eski bilgisayarlar, ses kartları, grafik kartları, oyunlar hakkında tekrar tekrar araştırma yapar bildiklerimi tekrar tekrar yeniden öğrenirim.</p>
-<p>Ses kartları üzerinde çok çalıştım, özellikle Sound Blaster ve modelleri hakkında. Pek çok ince detayı biliyor olmama karşın internetteki bilgi kirliliği, kimi anlatımların tam doğru yerine dolaylı olarak açıklanması sebebiyle pek çok şeyi yalan yanlış öğrenmiş bulunmaktayım. İşte burada bu yalan yanlış öğrendiğim bilgileri bir araya getirmek istedim.</p>
-<p>IBM PC için ilk ses kartı AdLib tarafından 1987 yılında üretilmiş ve 1988 yılında çıkan King&rsquo;s Quest IV ile oyun dünyasında ilk desteğini bulmuş. Şimdi bu AdLib adı verilen ses kartı çeşitli müzik enstrüman seslerini üreten Frequency Modulation (FM) adı verilen bir teknikle çalışyor. Bu işi Yamaha tarafından üretilen YM-3812 isimli çip ile sağlıyor. Toplam 11 ayrı enstrüman sesini üretmek ve aynı anda çalabilmek mümkün bu çip ile.</p>
-<p>PC&rsquo;lerin bilip, bülüp seslerine alışmış kullanıcılar AdLib&rsquo;i duyduklarında hayran kalmışlar elbette ancak FM yolu ile üretilen bu ses aslında oldukça yapay ve kulağı doyurmayan bir özelliğe sahip. PCM (Pulse-code Modulation) adı verilen teknikle üretilen dijitize ses özelliği bu kartta bulunmuyor.</p>
-<p>Şimdi Frequency Modulation tekniği o dönemdeki diğer bilgisayarlarda da kullanılıyor mu? (Amiga ve C-64) Amiga&rsquo;da kullanılan Paula 8 bitlik 4 kanal PCM sesi 27/28 kHz ile çalabiliyor. Commodore 64&rsquo;de ise SID çipinin sonradan keşfedilen bir özelliği ile 4. bir kanal 4 bit&rsquo;lik bir PCM özelliği kazanarak dijitize sesleri çalabiliyor. Geri kalan 3 kanal ses sentezleyicisinin tekniği nedir pek açık bilgi yok.</p>
-<p>Gerek Commodore 64&rsquo;ün SID çipi gerek Amiga&rsquo;nın Paula&rsquo;sı AdLib&rsquo;e göre çok daha yüksek, keskin, tok ve kaliteli bir ses üretirler bana göre.</p>
-<p>1989 yılında Creative Labs AdLib ile uyumlu Sound Blaster ses kartını çıkarıyor. FM sesler için kullanılan çip aynı YM-3812 ancak karta eklediği DSP (Dijital Sound Processor-çoğunlukla Dijital Signal Processor ile karıştırılmıştır.) ile 8 bitlik mono sesleri 23 kHz ile çalabilen ve yine 8 bitlik sesleri 11 kHz ile kayıt edebilen bir özellik eklemiştir. Dijitize ses efektleri ve konuşmalar ancak bu özellik ile mümkün olabilmiştir. Oyun dünyasında standart olarak kabul edilen müzikler FM ile sesler ise DSP ile anlayışı böylece başlamıştır.</p>
-<p>Sound Blaster&rsquo;ın ses kalitesine bakıldığında Amiga&rsquo;dan bir miktar aşağıda olduğu görülebilir. Öncelikle mono olması ve sample kalitesinin 23 kHz olması. Dijitize seslerde geriden gelen (hısss) sesi her zaman rahatsız edici olmuştur maalesef.</p>
-<p>Bu dönemde birde Roland MT-32 Multi-Timbre Sound Module adı verilen pek de ses kartı denilemeyecek MIDI uyumlu bir modül var o dönemlerde. 1987 yılında piyasaya çıkan bu modül sample based synthesis&rsquo;in (Gravis Ultrasound ile hayatımıza 1992 yılında girecek) bir türevi olan Linear Arithmetic Synthesis yöntemini kullanmakta olup hafızasında kayıtlı 128 snyth ve 30 drum enstrümanını 9 kanaldan aynı anda 8-32 nota çalarak ses üretmektedir.</p>
-<p>Şimdiye kadar kısaca 3 teknik var anladığım kadarıyla;</p>
-<p>1- Frequency Modulation (FM) ile üretilen enstrüman sesleri. Çok kaliteli değil ama idare eder.</p>
-<p>2- PCM ile gerçek kayıtların dijitize edilmesi. Güçlü ama kalite düşük şimdilik</p>
-<p>3- Sample based synthesis, seslerin bir çip ile üretilmeden önceden kaydedilmiş örneklerin çalınması. Dijitize değil, buraya dikkat. Çok yüksek kaliteli ancak sadece mevcut enstrüman sesleri, ses efekti üretmek için çok uygun değil.</p>
-<p>1991 yılında Creative Labs Sound Blaster Pro&rsquo;yu çıkarıyor. Yine FM kullanılıyor ancak bu defa stereo olması için 2 adet YM-3812 kullanılmış. PCM&rsquo;in kalitesi mono 44.1 kHz, stereo 22.05 kHz&rsquo;ye yükseltilmiş.(Hala stereo çalma kalitesi Amiga&rsquo;nın altında) 1992 yılında bu kart güncelleniyor ve YM-3812 yerine OPL3 (YM-262) kullanılıyor. Tek çip üzerinde FM üretimi seslerin stereo çalınması imkanı oluşuyor ve Adlib ile geriye doğru tam uyumlu.</p>
-<p>1992 yılının hemen başında AdLib Gold piyasaya çıkıyor. Tam değeri anlaşılamayan zamanının ötesinde bir kart aslında bu. Öncelikle OPL3 ile FM uyumu geriye doğru mevcut. 2x Oversampling denilen özellik ile OPL3 ses çıkış gücünü fazlasıyla artırıyor. Asıl yenilikler PCM cephesinde. 12 bit&rsquo;lik dijital ses sample özelliği var. Bu o zamanlar kristal gibi temiz ses demek. 44.1 kHz stereo sample yapabiliyor olması ilk kez bir PC ses kartının Amiga&rsquo;dan daha temiz ses ürettiğini gösteriyor. FM müzik üretimi geriye uyumlu olsa da PCM&rsquo;de Sound Blaster uyumluluğu olmaması kartı kısa sürede yarış dışı bırakıyor. Bu kartı destekleyen Dune isimli oyun var bildiğim. Ayrıca kartın üzerine takılan bir Surround Sound modülü&rsquo;de mevcut ama kullanan oyun veya program var mı bilemiyorum.</p>
-<p>Haziaran 1992&rsquo;de Creative Sound Blaster 16&rsquo;yı tanıtıyor. FM için OPL3 kullanılıyor ve 16 bit sampling PC dünyasına giriyor bu kartla. Geriye dönük olarak tam uyum olduğundan kısa sürede destek buluyor kart. Bu özelliklerinin yanında kartın üzerine takılan Wave Blaster ile Sample-Based synthesis&rsquo;e giriş yapıyoruz.</p>
-<p>Sample Based Synthesis (Creative Labs bunun yerine yanlış olarak Wave Table Synthesis terimini kullanıyor) özetle enstrüman seslerinin bir çip içinde üretilmeden, RAM veya ROM bellekte bulunan kaydedilmiş örneklerinin kullanılması demek. Roland MT-32&rsquo;de olduğu gibi. Yani 1987&rsquo;den beri kullanılagelen Frequency Modulatin tekniği tarih oluyor artık. Seslerin çip içinde üretilmesi kolay bir yöntem ama seslerin gerçeğine benzerliği kayıtlı örnekler kadar net olmuyor haliylen.</p>
-<p>Wave Blaster ile Sound Blaster 16 bu özelliğe sahip oluyor. Önceleri 4 MByte ROM ile gelen kart daha sonra 2 MByte ROM ile geliyor ve bu ROM içinde kaydedilmiş enstrüman sesleri bulunuyor.</p>
-<p>1992 yılında piyasaya Gravis Ultrasound çıkıyor. Bu kart Frequency Modulation kullanmıyor. Sample Based synthesis kullanıyor. Sample setler hafızasında değil yazılım ile yüklenen .PAT dosyaları ile sağlanıyor. Kartın üzerinde 256 KByte&rsquo;dan başlayan ve 1 MByte&rsquo;a kadar yükseltilebilen RAM mevcut.</p>
-<p>İlk bakışta AdLib ve Sound Blaster uyumluluğu olmayan bu kartın bazı oyunlar tarafından (Miles Sound Systems) desteklenmiş zamanında. Geriye yönelik uyumluluk emülasyon yolu ile sağlansada o dönemler DOS Extender kullanımının yaygınlaşması bazı uyumsuzlukları beraberinde getiriyor.</p>
-<p>Bununla birlikte kart Amiga&rsquo;nın module dosyalarını yüksek kalitede çalabiliyor olması sebebiyle PC demoscene&rsquo;de fazlasıyla tutuluyor. Bunun farkına varan Gravis&rsquo;in scener&rsquo;lara 6000 adet ses kartı dağıttığı söyleniyor.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
-<p>Module dosyalarındaki bu başarısı 32 mono, 16 stereo kanal ile verebiliyor olması. O zamana kadar diğer kartlar 1 veya 2 kanala sahip iken Gravis bu noktada çıtayı epey yükseğe koyuyor. GF1 işlemcisi ve .mod formatındaki özellikleri mükemmel biçimde kullanıyor. Şöyleki; .mod dosyası sample&rsquo;lar ve nota bilgileri dosyanın içinde saklıyor. Sound Blaster gibi ses kartları bu dosyaları düzgün çalabilmek için kaliteyi bir miktar düşürmek zorunda kalırken Gravis Ultrasound .mod dosyası içindeki sample&rsquo;ları kendi RAM&rsquo;ine kopyalayıp downmix yapmadan doğrudan orijinal kalitesinde çalabiliyor. Bu durum bilgisayarın CPU&rsquo;su üzerindeki yükü de azalttığından (hatta neredeyse sıfıra indirdiğinden) demoscene için fazlasıyla tercih edilen bir kart oluyor.</p>
-<p>Windows 95 gelene kadar oyun dünyasında kullanılan ses kartları böyle. Sound Blaster AWE serisi var ki oyunlar için değil daha profesyonel amaçlar için üretilmiş. EMU8000 işlemcisi ve SoundFont&rsquo;ları ile sample based synthesis temelli kart artırılabilir hafıza için slotlar taşıyor. Sound Blaster 16 uyumlu olsa da bazı problemler yaşamdığı biliniyor.</p>
-<h2 id="sound-blaster-dsp-digital-sound-processor-versions">SOUND BLASTER DSP (Digital Sound Processor) VERSIONS</h2>
-<table>
-<thead>
-<tr>
-<th>Sound Card</th>
-<th style="text-align:right">DSP Version</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Sound Blaster 1</td>
-<td style="text-align:right">1.05</td>
-</tr>
-<tr>
-<td>Sound Blaster 2</td>
-<td style="text-align:right">2.01</td>
-</tr>
-<tr>
-<td>Sound Blaster Pro (Old)</td>
-<td style="text-align:right">3.0</td>
-</tr>
-<tr>
-<td>Sound Blaster Pro (New)</td>
-<td style="text-align:right">3.01 (1991)</td>
-</tr>
-<tr>
-<td>Sound Blaster Pro (New)</td>
-<td style="text-align:right">3.02 (1992)</td>
-</tr>
-<tr>
-<td>Sound Blaster 16</td>
-<td style="text-align:right">4.05</td>
-</tr>
-</tbody>
-</table>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p><a href="https://en.wikipedia.org/wiki/Gravis">https://en.wikipedia.org/wiki/Gravis</a>_Ultrasound_&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
+            <description>For some reason I have a weakness for Markdown editors. When I used a MacBook, I started with OmmWriter and later used Byword. I&amp;rsquo;ve been going with Ulysses lately.
+Windows has been a more difficult platform to find programs in this area. I have tried various programs from time to time, but have never been able to find a properly working program with the features I want.
+Caret has been a gem for me that I haven&amp;rsquo;t been able to find for years.</description>
+            <content type="html"><![CDATA[<p>For some reason I have a weakness for Markdown editors. When I used a MacBook, I started with <a href="https://ommwriter.com/"><strong>OmmWriter</strong></a> and later used <a href="https://bywordapp.com/"><strong>Byword</strong></a>. I&rsquo;ve been going with <a href="https://ulysses.app/"><strong>Ulysses</strong></a> lately.</p>
+<p>Windows has been a more difficult platform to find programs in this area. I have tried various programs from time to time, but have never been able to find a properly working program with the features I want.</p>
+<p><a href="https://caret.io/"><strong>Caret</strong></a> has been a gem for me that I haven&rsquo;t been able to find for years. It has almost all the features I was looking for, it is extremely stable and very pleasant to use. However, the development process seems to have come to an end. It has not been updated for a long time, its developers are now working on a new program called <a href="https://nota.md/"><strong>Nota</strong></a>.</p>
 ]]></content>
         </item>
         
