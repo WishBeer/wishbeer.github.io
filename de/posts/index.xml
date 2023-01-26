@@ -6,8 +6,21 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://wishbeer.github.io/de/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Darkest Story of Garfield</title>
+            <link>https://wishbeer.github.io/de/posts/2023/01/darkest-story-of-garfield/</link>
+            <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://wishbeer.github.io/de/posts/2023/01/darkest-story-of-garfield/</guid>
+            <description>Die vom 23. bis 28. Oktober 1989 veröffentlichten Garfield-Comics werden als die dunkelste und interessanteste Geschichte in 45 Jahren Garfield-Geschichte gezeigt. Garfield konfrontiert die existentielle Angst vor Einsamkeit und Zeitverlust und kann sie nicht akzeptieren&amp;hellip;</description>
+            <content type="html"><![CDATA[<p><img src="https://github.com/WishBeer/wishbeer.github.io/blob/main/img/posts/Darkest.Garfield.png" alt="">
+Die vom 23. bis 28. Oktober 1989 veröffentlichten Garfield-Comics werden als die dunkelste und interessanteste Geschichte in 45 Jahren Garfield-Geschichte gezeigt.
+Garfield konfrontiert die existentielle Angst vor Einsamkeit und Zeitverlust und kann sie nicht akzeptieren&hellip;</p>
+]]></content>
+        </item>
         
         <item>
             <title>Caret</title>
@@ -21,27 +34,6 @@ Caret war für mich ein Juwel, das ich seit Jahren nicht mehr finden konnte.</de
             <content type="html"><![CDATA[<p>Aus irgendeinem Grund habe ich eine Schwäche für Markdown-Editoren. Als ich ein MacBook benutzte, begann ich mit <a href="https://ommwriter.com/"><strong>OmmWriter</strong></a> und verwendete später <a href="https://bywordapp.com/"><strong>Byword</strong></a>. In letzter Zeit arbeite ich mit <a href="https://ulysses.app/"><strong>Ulysses</strong></a>.</p>
 <p>Windows war eine schwierigere Plattform, um Programme in diesem Bereich zu finden. Ich habe von Zeit zu Zeit verschiedene Programme ausprobiert, konnte aber nie ein richtig funktionierendes Programm mit den gewünschten Funktionen finden.</p>
 <p><a href="https://caret.io/"><strong>Caret</strong></a> war für mich ein Juwel, das ich seit Jahren nicht mehr finden konnte. Es hat fast alle Features, die ich gesucht habe, es ist extrem stabil und sehr angenehm zu bedienen. Der Entwicklungsprozess scheint jedoch abgeschlossen zu sein. Es wurde lange nicht aktualisiert, seine Entwickler arbeiten jetzt an einem neuen Programm namens <a href="https://nota.md/"><strong>Nota</strong></a>.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Création d&#39;un nouveau thème</title>
-            <link>https://wishbeer.github.io/de/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</link>
-            <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-            
-            <guid>https://wishbeer.github.io/de/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</guid>
-            <description>TweetBot&amp;rsquo;a Veda! Twitter&amp;rsquo;a 2008 yılında kaydolmuşum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&amp;rsquo;daki tek amac o an ne yaptığını bildirmekten ibaretti.
-Yıllar geçtikçe işler değişti, Twitter büyüdü, artık takip edilmeyen hesapları bile size zorla göstermeye, aralara reklamlar almaya başladı.
-İşte o zamanlar Twitter&amp;rsquo;a sadece kendi timeline&amp;rsquo;ınıza ulaşmayı sağlayan programlar yaygınlaşmaya başladı. Echofon, Twitterrific, Tweetie&amp;hellip;ve TweetBot!
-Sadece takip ettiklerimi göstermesi ve reklamları timeline&amp;rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.</description>
-            <content type="html"><![CDATA[<h1 id="tweetbota-veda">TweetBot&rsquo;a Veda!</h1>
-<p><img src="https://darkestnotes.org/wp-content/uploads/2023/01/TweetBot.Ends_.jpeg" alt="TweetBot.Ends">
-Twitter&rsquo;a 2008 yılında kaydolmuşum. O yıllarda sosyal medya daha yeni oluşmaya başlıyordu ve Twitter&rsquo;daki tek amac <strong><em>o an ne yaptığını</em></strong> bildirmekten ibaretti.</p>
-<p>Yıllar geçtikçe işler değişti, Twitter büyüdü, artık takip edilmeyen hesapları bile size zorla göstermeye, aralara reklamlar almaya başladı.</p>
-<p>İşte o zamanlar Twitter&rsquo;a sadece kendi timeline&rsquo;ınıza ulaşmayı sağlayan programlar yaygınlaşmaya başladı. <em>Echofon</em>, <em>Twitterrific</em>, <em>Tweetie</em>&hellip;ve <em><strong>TweetBot</strong></em>!</p>
-<p>Sadece takip ettiklerimi göstermesi ve reklamları timeline&rsquo;ımın dışında tutması ile TweetBot 2011 yılından beri hem telefonumda hem de bilgisayarımda kullandığım bir program olmuştu.</p>
-<p>Elon Musk sonrası Twitter&rsquo;ın fazlasıyla değişeceğini tahmin ediyordum, twitter dışındaki arabirimlerin de API&rsquo;ye ulaşımına elbette yasak getirecekti yeni Twitter yönetimi, hiç şaşırmadım.</p>
-<p>Geçtiğimiz haftalarda TweetBot vbe diğerlerinin API&rsquo;ye ulaşması engellenince <a href="https://mastodon.world/@omerb">Mastodon</a>&lsquo;a doğru yol almak gerekli oldu. TweetBot geliştiricileri de zaten Mastodon için Ivory isimli programı hazırlamaya başlamışlardı.</p>
 ]]></content>
         </item>
         

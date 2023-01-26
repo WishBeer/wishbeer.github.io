@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comics on Wish You Were Beer!</title>
+    <link>https://wishbeer.github.io/de/series/comics/</link>
+    <description>Recent content in Comics on Wish You Were Beer!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wishbeer.github.io/de/series/comics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Darkest Story of Garfield</title>
+      <link>https://wishbeer.github.io/de/posts/2023/01/darkest-story-of-garfield/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wishbeer.github.io/de/posts/2023/01/darkest-story-of-garfield/</guid>
+      <description>Die vom 23. bis 28. Oktober 1989 veröffentlichten Garfield-Comics werden als die dunkelste und interessanteste Geschichte in 45 Jahren Garfield-Geschichte gezeigt. Garfield konfrontiert die existentielle Angst vor Einsamkeit und Zeitverlust und kann sie nicht akzeptieren&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
