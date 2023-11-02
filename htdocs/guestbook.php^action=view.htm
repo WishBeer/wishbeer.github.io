@@ -1,0 +1,623 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Worluk's Scene Archive</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+	<link rel="shortcut icon" href="img/favicon.ico">
+</head>
+
+<style>
+body
+     {
+     cursor: url('data:image/x-icon;base64,AAACAAEAICAQAAAAAADoAgAAFgAAACgAAAAgAAAAQAAAAAEABAAAAAAAAAIAAAAAAAAAAAAAEAAAAAAAAAAAAAAAQEDgAMDg4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAARAAAAESIAAAAAAAAAAAAAEQAAABEiAAAAAAAAAAAAABEAABEiAAAAAAAAAAAAAAARAAARIgAAAAAAAAAAAAAREQARIgAAAAAAAAAAAAAAEREAESIAAAAAAAAAAAAAABERESIAAAAAAAAAAAAAAAAREREiAAAAAAAAAAAAAAARERERERERAAAAAAAAAAAAEREREREREQAAAAAAAAAAABERERERIiIAAAAAAAAAAAARERERESIiAAAAAAAAAAARERERIiIAAAAAAAAAAAAAERERESIiAAAAAAAAAAAAABERIiIAAAAAAAAAAAAAAAARESIiAAAAAAAAAAAAAAARIiIAAAAAAAAAAAAAAAAAESIiAAAAAAAAAAAAAAAAESIAAAAAAAAAAAAAAAAAABEiAAAAAAAAAAAAAAAAAAD////////////////////////////////////////////////////////D////w///DwP//w8D//8MD///DA///AA///wAP//8AP///AD///AAD//wAA//8AAP//AAD//AAP//wAD//8AP///AD///AP///wD///8P////D////w=='), auto; 
+     }
+a:hover{
+     cursor: url('data:image/x-icon;base64,AAACAAEAICAAAAkAAQCoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAgAAAAIAAAACAAAAAgAAAAAAAAAAAAAAAQAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAABQAAAAkAAAALAAAADQAAAAwAAAAJAAAABwAAAAYAAAAHAAAACQAAAAgAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAANAAAAFgAAACoAAAAtAAAALAAAACgAAAAcAAAAEgAAABYAAAAZAAAAIAAAABUAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAACQAAABYAAAAmAAAAqQAAANcAAADXAAAA1wAAANMAAACRAAAAKgAAAHIBAQHLAAAA0AEBAYEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAcAAAASAAAAIgAAADMEBATVjY2N/8LCwv/CwsL/u7u7/ygoKP8AAACrAQEB+4GBgf9PT0//AgICtwAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAGAAAAEAAAAB8AAAAxAgIChwsLC//k5OT/////////////////6urq/xcXF/5paWn+/////3p6ev8DAwOwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAA4AAAAdAAAALwEBAY8BAQH/w8PD/////////////Pz8///////////////////////7+/v/rq6u/wAAAMoAAAAPAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAKAAAAGQAAACsBAQGBAQEB/8zMzP////////////z8/P9dXV3//////6ampv+JiYn//////4KCgv/39/f/NTU1/wAAAHYAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABwAAABQAAAAmAAAAUAEBAf29vb3/////////////////19fX/yMjI///////enp6/1ZWVv//////SkpK/8PDw//v7+//Dg4O/AAAACsAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAUAAAAPAAAAIAAAADABAQHQdHR0/v/////////////////////X19f/IyMj//////96enr/VlZW//////9KSkr/w8PD//////+UlJT/AAAAwQAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAADAAAABoAAAAyAAAAbyMjI//8/Pz//////////////////////9bW1v8nJyf//////3p6ev9WVlb//////0pKSv/Dw8P///////X19f8EBAT1AAAAKwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAgAAAAVAAAAJwAAAEMEBATz1dXV////////////////////////////09PT/yoqKv//////enp6/1ZWVv//////SkpK/8PDw////////////0RERP4AAABGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAADQAAAB4AAABBAAAA246Ojv////////////j4+P+pqan////////////9/f3/aGho//////+lpaX/jo6O//////+EhIT/9/f3////////////ZWVl/wAAAF4AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAPAAAAIwICApEpKSn+/Pz8////////////U1NT/y4uLv/////////////////9/f3///////////////////////z8/P////////////////99fX3/AAAAcwAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAA4AAAAeAgICr3Jycv///////f39/4aGhv8AAAD/QEBA/////////////////////////////////////////////////////////////////4ODg/8AAABzAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABwAAABMAAABKCAgI/XJycv8vLy/+AQEB4QAAAJ95eXn///////X19f92dnb///////////+7u7v/paWl////////////qamp/46Ojv//////gYGB/wAAAHIAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAABwAAAA4AAAA9AgICqgICAooAAABFAQEByLe3t///////y8vL/yUlJf/n5+f//////2tra/9AQED+//////////9ZWVn+AgIC/76+vv9BQUH/AAAAVgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAwAAAAYAAAAQAAAAIQAAADwKCgr+2tra//////+UlJT/JiYm/+fn5///////PT09/ikpKf/6+vr//f39/ygoKP8AAACxBQUF4wEBAbMAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAkAAAAbCoqKv/5+fn//////2VlZf8BAQH9XFxc/2hoaP8AAAD+AQEBwBsbG/IcHBzzAgICtQAAAAwAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAFAAAACgBAQGdU1NT/v/////+/v7/ODg4/wAAAHsAAABvAAAAcQAAACsAAAARAAAALQAAACoAAAAnAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAVAAAAMAEBAciMjIz//////+jo6P8ZGRn/AAAANAAAAAMAAAACAAAAAgAAAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAABUAAAAzAAAA0bOzs///////1tbW/wYGBt8AAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAEQAAACUAAADLr6+v//////9XV1f/AAAAcwAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAKAAAAFgEBAZMjIyP/UFBQ/gEBAfgAAAAXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAQAAAAJAAAAEgAAAG8BAQGRAAAAOwAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAIAAAADAAAAAwAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////////////////////8DH///AB///gAf//wAH//4AB//+AAP//AAB//wAAf/4AAH/8AAB/+AAAf/gAAH/8AAB//kAAf//AAH//wAP//4P///+D////g////4f///+H////7////////8='), pointer;
+     }
+</style>
+
+<body background="../img/BINARY.gif" BGCOLOR="#000000" TEXT="#000000" LINK="#000000" VLINK="#000000" ALINK="#000000">
+<center>
+<A HREF="https://worluk.neocities.org/" TARGET="_self"><IMG SRC="../img/LOGO.GIF" align="bottom" WIDTH=636 HEIGHT=111 ALT="" BORDER="0"></A>
+<div align="center"><IMG SRC="../img/OBEN2.gif" WIDTH=636 HEIGHT=42 ALT="" BORDER="0"></div>
+<TABLE width=1 border=0 cellpadding=0 cellspacing=0>
+	<TR>
+		<TD width=50><IMG SRC="../img/dot_clear.gif" WIDTH=50 HEIGHT=1 ALT="" BORDER="0"></TD>
+		<TD width=4 bgcolor="#ffffff"><IMG SRC="../img/dot_clear.gif" WIDTH=4 HEIGHT=1 ALT="" BORDER="0"></TD>
+		<TD width=10 bgcolor="#8e868e"><IMG SRC="../img/dot_clear.gif" WIDTH=10 HEIGHT=1 ALT="" BORDER="0"></TD>
+		<TD width=376 bgcolor="#8e868e"><IMG SRC="../img/dot_clear.gif" WIDTH=376 HEIGHT=1 ALT="" BORDER="0"></TD>
+		<TD width=10 bgcolor="#8e868e"><IMG SRC="../img/dot_clear.gif" WIDTH=10 HEIGHT=1 ALT="" BORDER="0"></TD>
+		<TD width=4 bgcolor="#ffffff"><IMG SRC="../img/dot_clear.gif" WIDTH=4 HEIGHT=1 ALT="" BORDER="0"></TD>
+		<TD width=120 bgcolor="#5b535b"><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=1 ALT="" BORDER="0"></TD>
+		<TD width=4 bgcolor="#ffffff"><IMG SRC="../img/dot_clear.gif" WIDTH=4 HEIGHT=1 ALT="" BORDER="0"></TD>
+		<TD width=54><IMG SRC="../img/dot_clear.gif" WIDTH=54 HEIGHT=1 ALT="" BORDER="0"></TD>
+	</TR>
+	<TR>
+		<TD>&nbsp;</TD>
+		<TD bgcolor="#ffffff"><IMG SRC="../img/dot_clear.gif" WIDTH=4 HEIGHT=202 ALT="" BORDER="0"></TD>
+		<TD bgcolor="#8e868e">&nbsp;</TD>
+		<TD bgcolor="#8e868e" valign="top">
+		<font face="arial" size=2>
+<DIV ALIGN="center"><B> - WORLUK'S ARCHIVE GUESTBOOK - </B></DIV>
+<BR>
+			<p align="right">
+			<a href="../htdocs/guestbook.php^action=new.htm">Sign Guestbook</A><BR>
+			</p>
+
+October 30th 2022<br><b>Nermal</b> <a href="mailto:wouldntyoulike@to.know">email</a> <A HREF="https://www.c64.com" target="_blank">url</a> <br>
+Hey, i search this site everywhere in internet and found it with YouTube video of Vamped Worluk OS 3.2.1 video...
+Great site, if you add your releases again!!!
+
+<br><br>
+
+November 25th 2000<br><b>archie_</b> <br>
+your releases totally rule!!!!  :D   
+you know, there is not any trained version of the c64 classic 'space taxi' .. not even one with infinite lives..
+keep up the good work
+
+<br><br>
+
+November 21st 2000<br><b>Seven Up (Alpha Flight 1970)</b> <a href="mailto:seven.up@afl1970.org">email</a> <a href="www.afl1970.org" target="_blank">url</a> <br>
+thank you for every release, I will allways remember you, jack !
+fuck the shit... seven up
+
+
+<br><br>
+
+November 17th 2000<br><b>tix.64</b> <a href="mailto:tix.64@snafu.de">email</a> <a href="www.afl1970.org" target="_blank">url</a> <br>
+Those Remember releases are great. It's good to be able to play the whole game (through the trainers). Your cracking skills are really amazing; no fuckups in one of the games so far. That's what I hated about many of the "first-releases".
+
+Keep up the good work!!!
+
+
+<br><br>
+
+November 15th 2000<br><b>Smalltown Boy</b> <a href="mailto:smalltown_boy@poczta.onet.pl">email</a> <a href="www.afl1970.org" target="_blank">url</a> <br>
+I knew those guys from REM are skillful crackers, but those highscoresavers installed in International Karate etc. drove me happier than ever. I haven't slept more than five hours a night since :) :) :)
+BUT! West Bank crack lacks good sound on my CCS64v2.0 - somewhere in the beginning of the ingame tune (and also a few seconds later) the volume level gets so high that it may cause cardiac arrest - in addition, I can hear strange crackles in the background. Maybe my copy is wrong (?) maybe my emulator is wrong (?) - could somebody enlighten me...
+Greetz!
+
+
+<br><br>
+
+October 27th 2000<br><b>Frits</b> <a href="mailto:frits@ic24.net">email</a> <a href="http://www.neuemedienkunst.de/flac64/" target="_blank">url</a> <br>
+Keep up the good work boys!!!!!
+
+
+<br><br>
+
+
+October 20th 2000<br><b>Jack Alien</b> <a href="mailto:jack_alien@yahoo.com">email</a> <a href="www.geocities.com/nilsmorten_2000" target="_blank">url</a> <br>
+For sure we'll release the Last Ninja series anytime... but there are also so many other games left... just wait and see.
+
+
+<br><br>
+
+October 19th 2000<br><b>WoLaNd</b> <a href="mailto:wol@ludens.elte.hu">email</a> <a href="www.geocities.com/nilsmorten_2000" target="_blank">url</a> <br>
+Sure guys, I think what you've done is SUPERB!
+Keep up the good work (Last Ninja cracks one day?)!
+C64 still kixx ass bigtime (still have 3), REM/NO/CPX crax
+and HVSC are must for ne1.
+Thanx!
+
+WoL
+
+
+<br><br>
+
+October 18th 2000<br><b>Board Rider</b> <a href="mailto:board_rider1@yahoo.com">email</a> <a href="www.geocities.com/nilsmorten_2000" target="_blank">url</a> <br>
+This is another cool site for the c64 and I love the games and d/led them all I have like enough room on my 4giger here and if not...well I will add a zip drive to the CMD HD and then I will have some more room hehe!!
+
+Later daze
+
+BR
+
+
+
+<br><br>
+
+October 15th 2000<br><b>Ingo Steinke</b> <a href="mailto:fraktalisman@gmx.net">email</a> <a href="http://fly.to/fraktalisman" target="_blank">url</a> <br>
+Nice site, found some stuff I didn't know yet :)<br>
+Thanks to Intruder (G*P) for the Link.<br>
+Ingo
+
+
+<br><br>
+
+October 14th 2000<br><b>[MANIK] / COMMOBAM</b> <a href="mailto:manik@kookee.sk">email</a> <a href="www.spolocne.miesto.sk/c64.htm" target="_blank">url</a> <br>
+Howdy Freaks! All the best in the future! I wish you many more originals!!! Maybe I became a member again hehehe.... see ya later!
+
+
+<br><br>
+
+October 14th 2000<br><b>Dodger</b> <a href="mailto:the_dodger@hotmail.com">email</a> <a href="www.ossiweltherrschaft.com" target="_blank">url</a> <br>
+I liked the old page way more... sorry... :)
+
+
+
+<br><br>
+
+October 2nd 2000<br><b>CORE321</b> <a href="mailto:CORE321@aol.com">email</a> <a href="http://members.aol.com/_ht_a/core321/core321C64.htm" target="_blank">url</a> <br>
+Hey Guys,
+
+Great fresh cracks of old classics.  Adding highscore tables is cool.
+
+Keep up the good work.
+
+Mike
+
+Visit my site and sign my guestbook..
+
+
+
+
+<br><br>
+
+September 29th 2000<br><b>Almighty God/Role/Anubis</b> <a href="mailto:Almightygod@role.de">email</a> <a href="www.geocities.com/agod642000/" target="_blank">url</a> <br>
+  Hey Guys, nice old cracks.Are you interesting in trade orries to crack.
+  For Jack...and D-ram...
+
+
+<br><br>
+
+September 29th 2000<br><b>Almighty God/Role/Anubis</b> <a href="mailto:Almightygod@role.de">email</a> <a href="www.geocities.com/agod642000/" target="_blank">url</a> <br>
+  Hey Guys, nice old cracks.Are you interesting in trade orries to crack.
+  For Jack...and D-ram...
+
+
+<br><br>
+
+September 29th 2000<br><b>Jack Alien</b> <a href="mailto:jack_alien@yahoo.com">email</a> <a href="www.geocities.com/agod642000/" target="_blank">url</a> <br>
+Hey, Barry... do you need more contacts ??? 8)
+
+
+
+<br><br>
+
+September 28th 2000<br><b>Derbyshire Ram</b> <a href="mailto:barry.joynes@virgin.net">email</a> <a href="www.geocities.com/agod642000/" target="_blank">url</a> <br>
+Don't forget guys, if you have problems transferring any 'Remember' wares, e-mail me, I still swap snail mail.
+
+
+<br><br>
+
+September 27th 2000<br><b>Jack Alien</b> <a href="mailto:jack_alien@yahoo.com">email</a> <a href="www.geocities.com/agod642000/" target="_blank">url</a> <br>
+Well, PLK is dead... and swapping nearly, too.
+
+
+<br><br>
+
+September 26th 2000<br><b>SKaR</b> <a href="mailto:caschro@t-online.de">email</a> <a href="www.geocities.com/agod642000/" target="_blank">url</a> <br>
+Hy!
+
+Nice page. Shit, I lost my "Postlagerkarte"
+Maybe still some "Blindensendung" there?
+ ;)
+
+
+<br><br>
+
+September 25th 2000<br><b>Stuart Toomer</b> <a href="mailto:stuart.toomer@care4free.net">email</a> <a href="www.geocities.com/agod642000/" target="_blank">url</a> <br>
+Remember produce the highest quality conversions of Commodore 64 games I have ever seen - Remember are the best!  I love the conversions of Impossible Mission, Turbo Outrun, Pitstop II and Crazy Comets.  Fantastic work guys!
+
+
+<br><br>
+
+September 25th 2000<br><b>Fastie (ex Matt/WOW)</b> <a href="mailto:fastie@yucom.be">email</a> <a href="www.geocities.com/agod642000/" target="_blank">url</a> <br>
+Nice to see so many people like you guys still paying so much attention to the goold old dusty C64! Keep the spirit alive!!
+
+
+<br><br>
+
+September 24th 2000<br><b>Cupid/Padua/Hitmen</b> <a href="mailto:info@cupid.de">email</a> <a href="http://www.cupid.de" target="_blank">url</a> <br>
+Now, here is the new guestbook with the update, I 
+hope you will use it as wisely as the other one and
+keep remember as your no.1 :-) <br><br>Cupid
+
+
+<br><br>
+
+24. August 2000<br><b>DaiSoN</b> <a href="mailto:daison@geocities.com">email</a> <a href="http://www.cupid.de" target="_blank">url</a> <br>
+Great Site, Great Releases, Great effort! Thumbs Up is what I say. And Thank U for all the highscoresavers!!!
+
+
+<br><br>
+
+20. August 2000<br><b>Ghost/Excess</b> <a href="mailto:Ghost@c64.org">email</a> <a href="http://excess.iscool.net" target="_blank">url</a> <br>
+Yo fantastic cracks, fantastic site!! C ya on X2000...
+
+<br><br>
+
+14. August 2000<br><b>Petri T.</b> <a href="mailto:swasti@gmx.net">email</a> <a href="http://" target="_blank">url</a> <br>
+Ahh...You got a working version of Way of the Exploding Fist! You are gods, thanks a lot!
+
+<br><br>
+
+6. August 2000<br><b>Wildthingcuc</b> <a href="mailto:rickkjr@home.com">email</a> <a href="http://" target="_blank">url</a> <br>
+Great website! Being an avid C64 fan since I got my first C64 when I was 5 back in 1981, it's great to see a well done webpage on what I consider my favorite computer I ever owned.
+
+<br><br>
+
+
+30. July 2000<br><b>Fungus</b> <a href="mailto:r.flagg@gmx.net">email</a> <a href="http://" target="_blank">url</a> <br>
+Remember me, my brothers...
+
+
+<br><br>
+
+29. July 2000<br><b>mr.mister/trance</b> <a href="mailto:r.flagg@gmx.net">email</a> <a href="http://" target="_blank">url</a> <br>
+great site
+
+
+<br><br>
+
+25. July 2000<br><b>H-Bloxx of EXCESS</b> <a href="mailto:hbloxx@c64.org">email</a> <a href="http://" target="_blank">url</a> <br>
+Damn great site ... keep up the great work!!!
+
+<br><br>
+
+21. July 2000<br><b>Tobias Hultman</b> <a href="mailto:tohu4573@hem2.passagen.se">email</a> <a href="http://members.fortunecity.com/c64games/" target="_blank">url</a> <br>
+Maybe you should add a forum? Keep up the good work!
+
+
+<br><br>
+
+17. July 2000<br><b>Webking</b> <a href="mailto:Webking1@hotmail.com">email</a> <a href="http://" target="_blank">url</a> <br>
+absolutely great...thanks for the great page. there will never be a puter like c64 .. wondering 1 thing... what was the first release of Remember
+since it's missing... 
+
+
+<br><br>
+
+16. July 2000<br><b>Willcox</b> <a href="mailto:willcox@willcox.de">email</a> <a href="http://www.willcox.de" target="_blank">url</a> <br>
+Absolutely great!
+Somehow I miss the photos...:-) Also, it would be a great improvement to have a list with the releases  that have been released a second time (add. trainers, bugfixes,...) Just my five cents...
+Stay up in biz, folks!
+
+
+<br><br>
+
+15. July 2000<br><b>Trooper</b> <a href="mailto:trooper@anywhere98.freeserve.co.uk">email</a> <a href="http://" target="_blank">url</a> <br>
+Excellent Site, keep up the good work.....Nostalgia Rules, C64 will always be in our hearts...... :-)
+
+
+<br><br>
+
+13. July 2000<br><b>JAYCE / ex. O+H, G*P, DOM, HIT, (C) etc</b> <a href="mailto:trooper@anywhere98.freeserve.co.uk">email</a> <a href="http://" target="_blank">url</a> <br>
+Respect!
+
+<br><br>
+
+12. July 2000<br><b>Radar</b> <a href="mailto:webmaster@artline-moden.de">email</a> <a href="http://www.artline-moden.de" target="_blank">url</a> <br>
+Just some fast greetings... and btw, HOK you forgot about naming 'Arcade' ;) 
+
+
+<br><br>
+
+5. July 2000<br><b>MigSun</b> <a href="mailto:migsun@gmx.net">email</a> <a href="http://" target="_blank">url</a> <br>
+great work!
+C64 RULEZ!
+
+
+<br><br>
+
+29. May 2000<br><b>lTRIMM/REMEMBER</b> <a href="mailto:ltrimm@c64.org">email</a> <a href="http://bitte8bit.de/remember" target="_blank">url</a> <br>
+Well... I am impressed of all the reactions. Sure, we will continue all the works. And yes, we always use the option to turn off the fastloader, so you can play it even on a 15 81! Request any cracks inside this guestbook, which games you would like to see properly cracked. Sooner or later, we will grab any title, hm? ;)
+ So long, Pascal
+
+
+<br><br>
+
+27. May 2000<br><b>Greetings</b> <a href="mailto:christianluciofischer@gmx.de">email</a> <a href="http://" target="_blank">url</a> <br>
+Great; really great; keep the spirit alive !!By the way, I am searching for german adventures (d64) like tronic, Sagor der eroberer, portal, gordon saga. Who can help me ?
+
+
+<br><br>
+
+17. May 2000<br><b>Magnate/Obsession</b> <a href="mailto:magnate@poczta.onet.pl">email</a> <a href="http://" target="_blank">url</a> <br>
+Great homepage! Greetings to all C64 sceners,especially coverdesigners.
+
+
+<br><br>
+
+17. May 2000<br><b>rOuGhX</b> <a href="mailto:magnate@poczta.onet.pl">email</a> <a href="http://pirates.emucamp.com" target="_blank">url</a> <br>
+Tadpole, get a 1541! :) Yes, where are the games?! If you dont find them here (CUPID!!!) look at http://go.to/c64
+
+
+<br><br>
+
+16. May 2000<br><b>Steve of Laser ;)</b> <a href="mailto:steve1@apple2.com">email</a> <a href="http://" target="_blank">url</a> <br>
+Hiya fellows.  Been a while, nice to see you doing a good job still on the C64....
+
+
+<br><br>
+
+16. May 2000<br><b>Tadpole</b> <a href="mailto:Tadpole@Civitas64.de">email</a> <a href="http://" target="_blank">url</a> <br>
+Hi Guys..! Where are your new craxx..! In the meantime I've got all of them. Please add in future the chance to kill the fastloader...... (so that all works also on the 1581-drive). Cu,Tadpole
+
+
+<br><br>
+
+7. May 2000<br><b>ste</b> <a href="mailto:ste-byrom@freeuk.com">email</a> <a href="http://" target="_blank">url</a> <br>
+excellent cracks!! with trainers and other extras.
+it's a shame you havent cracked every game.
+
+
+<br><br>
+
+23. April 2000<br><b>Booch</b> <a href="mailto:joebucci@netzero.net">email</a> <a href="http://lightning.prohosting.com/~joebucci/C64Emus1.html" target="_blank">url</a> <br>
+Nice site! Great content. Ever think about a GEOS information/Shareware section! Regards, Booch
+
+
+<br><br>
+
+22. April 2000<br><b>Jazzcat/Onslaught</b> <a href="mailto:jazzcat@antwerpen.com">email</a> <a href="http://domination.rules.org" target="_blank">url</a> <br>
+A lovely page. After checking this it is time to boot up the new super version of IK+.... Keep it up!! Hats off!
+
+
+<br><br>
+
+20. April 2000<br><b>Frits</b> <a href="mailto:frits@ic24.net">email</a> <a href="http://" target="_blank">url</a> <br>
+Brilliant!!!!  Brings back all those memories!!!  Don't stop now carry on!!!!!!!
+
+
+<br><br>
+
+15. April 2000<br><b>l_w</b> <a href="mailto:l_wallbank@hotmail.com">email</a> <a href="http://" target="_blank">url</a> <br>
+I think you guys do a great job. Long live the C64!
+
+
+<br><br>
+
+11. April 2000<br><b>lTRIMM/REMEMBER</b> <a href="mailto:ltrimm@c64.org">email</a> <a href="http://bitte8bit.de/remember" target="_blank">url</a> <br>
+Yeah Chris, a fucking cool Site done by you!! Respect... I hope to read more excellent reactions about our upcoming releases...
+
+
+<br><br>
+
+
+4. April 2000<br><b>Mystery (ex Rainbow)</b> <a href="mailto:r.beeke@gmx.de">email</a> <a href="http://c64games.de" target="_blank">url</a> <br>
+Hey Ho!
+Cool to meet some old friends! Greetz to Jack Alien!
+
+<br><br>
+
+2. April 2000<br><b>AxLe</b> <a href="mailto:alex.aris@btinternet.com">email</a> <a href="http://www.btinternet.com/~alex.aris/" target="_blank">url</a> <br>
+Classy Site ! Love it ! How about a total list of all the Games you have cracker ? :-) Keep C64 nostalgia alive !
+
+
+<br><br>
+
+25. March 2000<br><b>Kim Lemon</b> <a href="mailto:kim@emucamp.com">email</a> <a href="http://c64.emucamp.com" target="_blank">url</a> <br>
+This is awesome.
+
+
+<br><br>
+
+16. March 2000<br><b>Yabba</b> <a href="mailto:rrr888@aol.com">email</a> <a href="http://n/a" target="_blank">url</a> <br>
+This is great. Keep up the good work.
+
+
+<br><br>
+
+15. March 2000<br><b>The X-Raffi</b> <a href="mailto:xraffi@t.online.de">email</a> <a href="http://" target="_blank">url</a> <br>
+just cheacking the page again, grey as well ;)- jojos to jack arafat !!!he b-wyze nice to see ya alive.
+
+
+<br><br>
+
+10. March 2000<br><b>Pete T</b> <a href="mailto:xraffi@t.online.de">email</a> <a href="http://" target="_blank">url</a> <br>
+You're Gods! I've just got CCS64 for my PC, and playing the old classics just plainly kicks ass, especially when you are providing them with high quality trainer options & 100 percent compatibility! Pete T, an old c64 freak from Finland 
+
+
+<br><br>
+
+6. March 2000<br><b>centrax</b> <a href="mailto:? sorry">email</a> <a href="http://" target="_blank">url</a> <br>
+WHAT I CAN SAY ??? good job ??? I waiting for the next releases !!!
+
+
+<br><br>
+
+25. February 2000<br><b>Rough</b> <a href="mailto:rough@c64.rulez.org">email</a> <a href="http://" target="_blank">url</a> <br>
+All the ppl I asked are too busy. Nevermind, I will design it on my own,I am pretty good with organizing the built up, will have to learn graphical
+design on my own, btw, I live close to Munich, not so far from Augsburg
+
+
+<br><br>
+
+25. February 2000<br><b>Cupid</b> <a href="mailto:busyman">email</a> <a href="http://www.onlinetools.org/" target="_blank">url</a> <br>
+Yeah, well, as said, I am full up to the hilt with work, also scene-related that is. Furthermore this fucking Proxy here at work does not allow me to ftp :(. A forum, well, someone could also do one, eh? I mean there is more cgi.wiz out there :-) rough, check the design links on my HP, there are some really phat tutorials. I will be in London for a Weekend soon and might start working there for a month also, so I cannot do anything... 
+Hmm, didn't know I am blessed by g0d, ah anyway... /Cupid (reach me at SH!)
+
+
+<br><br>
+
+24. February 2000<br><b>PW</b> <a href="mailto:busyman">email</a> <a href="http://" target="_blank">url</a> <br>
+Thanks for everything, God Bless U!
+
+<br><br>
+
+24. February 2000<br><b>Jack Alien</b> <a href="mailto:jack_alien@yahoo.com">email</a> <a href="http://" target="_blank">url</a> <br>
+It's good enough... for what big fat graphics ? But it seems that we need now a forum, or ? What do you think, Chris ?
+
+
+<br><br>
+
+24. February 2000<br><b>cupid</b> <a href="mailto:chris@bitte8bit.de">email</a> <a href="http://" target="_blank">url</a> <br>
+Well, rough this here is a functionality before style thing, and it should be rally 8 bit-ish :) I doubt if I can do something for more pages, though, as customers keep crashing my doors :)
+
+
+<br><br>
+
+24. February 2000<br><b>rOuGh</b> <a href="mailto:rough@c64.rulez.org">email</a> <a href="http://go.to/c64" target="_blank">url</a> <br>
+Hi Cupid! I liked your other pages more than this, but many thanx nevertheless. :) Are you interested in graphical design
+of a retrogaming/emulation site, if yes, leave mail to me!!!
+
+
+<br><br>
+
+23. February 2000<br><b>Fungus</b> <a href="mailto:fungus@eskimo.com">email</a> <a href="http://" target="_blank">url</a> <br>
+Wow cupid! The page looks fantastic! (And I^m using a peecee at the mom ;)
+
+
+<br><br>
+
+13. February 2000<br><b>Jazzcat/Onslaught</b> <a href="mailto:jazzcat@antwerpen.com">email</a> <a href="http://domination.rules.org" target="_blank">url</a> <br>
+Nice page guys, keep up the cool oldies flood!
+
+
+<br><br>
+
+8. February 2000<br><b>HOK/Remember</b> <a href="mailto:holger.klipsch@uni.de">email</a> <a href="http://domination.rules.org" target="_blank">url</a> <br>
+Yo Cupid! Very good work!!
+
+
+<br><br>
+
+7. February 2000<br><b>anonym/padua</b> <a href="mailto:anonym@padua.org">email</a> <a href="http://c64.cc/" target="_blank">url</a> <br>
+And again Cupid outdid himself 8-) Keep up the good work. /Frank
+
+
+<br><br>
+
+5. February 2000<br><b>reel/tazadum</b> <a href="mailto:reel@c64.org">email</a> <a href="http://area64.c64.org" target="_blank">url</a> <br>
+Great site! love it.
+
+
+<br><br>
+
+4. February 2000<br><b>cba / The Ruling Company </b> <a href="mailto:cba@scs-trc.net">email</a> <a href="http://www.scs-trc.net" target="_blank">url</a> <br>
+Guys!..
+Spankers Heaven is back !.. check it out!!! L8er CBA
+
+<br><br>
+
+1. February 2000<br><b>Tobias</b> <a href="mailto:tobias@megaz.com">email</a> <a href="http://members.xoom.com/c64games/" target="_blank">url</a> <br>
+Cool!
+
+
+<br><br>
+
+31. January 2000<br><b>Cupid</b> <a href="mailto:cupid@padua.org">email</a> <a href="http://www.cupid.de" target="_blank">url</a> <br>
+Gee, just here with lynx and it works fine! Cool...
+
+
+<br><br>
+
+31. January 2000<br><b>Unlock/Padua/Albion</b> <a href="mailto:unlock@profzone.ch">email</a> <a href="http://www.profzone.ch/unlock" target="_blank">url</a> <br>
+Very nice page, Chris.. good work.. maybe the news are a bit chaos-like it would probably be better to show the name of the one that added it more clearly... anyways, keep on with it guys!
+
+
+<br><br>
+
+30. January 2000<br><b>Djinn/Wrath Designs</b> <a href="mailto:jfsebastian@hotmail.com">email</a> <a href="http://" target="_blank">url</a> <br>
+Hey hey ppl! Just stopping by for a sec or two...
+
+<br><br>
+
+28. January 2000<br><b>locutox__</b> <a href="mailto:ltx@ihug.com.au">email</a> <a href="http://members.tripod.com/locutox" target="_blank">url</a> <br>
+_YOU DON'T WANT TO VISIT THAT WEBSITE!_ Great page! whips the old one! no CRACK WILLIAM WOBBLER :).. keep up the crax0ring! C64 will never die!
+
+
+<br><br>
+
+26. January 2000<br><b>Cupid/Padua/Hitmen</b> <a href="mailto:cupid@padua.org">email</a> <a href="http://www.cupid.de" target="_blank">url</a> <br>
+So, the bug here is fixed, sorry for all the dudes that entered their data and got it crippled and therefor had to be deleted... keep 'em coming Cupid/Padua/Hitmen
+
+
+<br><br>
+
+18. January 2000<br><b>6r6/Nostalgia</b> <a href="mailto:wouldntyoulike@to.know">email</a> <a href="http://www.nostalgia.c64.org" target="_blank">url</a> <br>
+Aloha..  Worluk rocks! Over 1600 releases until now ? phew.. Btw, my weaponcheat of Ghost&Goblins is better. (go to brag a little. ;) )bye!
+
+
+<br><br>
+
+13. January 2000<br><b>Peacemaker / Hitmen</b> <a href="mailto:wouldntyoulike@to.know">email</a> <a href="http://shiva.mystical-paradise.de" target="_blank">url</a> <br>
+yeah.. Hitmen rox and this page is well designed too
+
+
+<br><br>
+
+			<p align="right">
+			<a href="../htdocs/guestbook.php^action=new.htm">Sign Guestbook</A><BR>
+			</p>
+		</FONT>
+	</TD>
+		<TD bgcolor="#8e868e">&nbsp;</TD>
+		<TD bgcolor="#ffffff">&nbsp;</TD>
+		<TD bgcolor="#5b535b" valign=top>
+			<TABLE width=1 border=0 cellpadding=0 cellspacing=0>
+				<TR>
+					<TD bgcolor="#ffffff" align="center">
+					<IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD bgcolor="#8e868e" align="center">
+						<IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"><BR>			<font face="arial" size=2><a href="../htdocs/news.php.htm">News</A></FONT><BR><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD bgcolor="#ffffff" align="center"><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD bgcolor="#8e868e" align="center">
+						<IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"><BR>			<font face="arial" size=2><a href="../htdocs/timeline.php.htm">Timeline</A></FONT><BR><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD bgcolor="#ffffff" align="center"><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD bgcolor="#8e868e" align="center">
+						<IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"><BR>			<font face="arial" size=2><a href="../htdocs/releases.php.htm">Archive</A></FONT><BR><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD bgcolor="#ffffff" align="center"><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD bgcolor="#8e868e" align="center">
+            <IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"><BR>			<font face="arial" size=2><a href="../htdocs/hvgc.php.htm">HVGC</A></FONT><BR><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD bgcolor="#ffffff" align="center"><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+	      <TR>
+					<TD bgcolor="#8e868e" align="center">
+					<IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"><BR>			<font face="arial" size=2><a href="../htdocs/about.php.htm">What About?</A></FONT><BR><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD bgcolor="#ffffff" align="center"><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>			
+				<TR>
+					<TD bgcolor="#8e868e" align="center">
+						<IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"><BR>			<font face="arial" size=2><a href="../htdocs/guestbook.php.htm">Guestbook</A></FONT><BR><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD bgcolor="#ffffff" align="center"><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD bgcolor="#8e868e" align="center">
+						<IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"><BR>			<font face="arial" size=2><a href="../htdocs/search.php.htm">Search</A></FONT><BR><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD bgcolor="#ffffff" align="center"><IMG SRC="../img/dot_clear.gif" WIDTH=120 HEIGHT=3 ALT="" BORDER="0"></TD>
+				</TR>
+			</TABLE><BR>
+			<DIV ALIGN="center">
+			<A HREF="https://www.be.wildman-productions.org/index.php" TARGET="_blank"><IMG SRC="../img/netpositive.gif" WIDTH=90 HEIGHT=35 ALT="NetPositive Web Browser" BORDER="0"></A><BR><BR>
+			<A href="http://www.slayradio.org/" TARGET="_blank"><IMG SRC="../img/slayradio.gif" ALT="SlayRadio" BORDER="0"></A><BR><BR>
+			<IMG SRC="../img/sidplug.gif" ALT="SIDPlug" BORDER="0"><BR><BR>
+			<a href="../htdocs/credits.php.htm"><IMG SRC="../img/madewitha64.gif" WIDTH=112 HEIGHT=25 ALT="Made with a C64" BORDER="0"></A>
+						
+			</DIV>
+		</TD>
+		<TD bgcolor="#ffffff">&nbsp;</TD>
+		<TD>&nbsp;</TD>
+	</TR>	
+	</TABLE>
+    <div align="center"><IMG SRC="../img/unten.gif" WIDTH=636 HEIGHT=42 ALT="" BORDER="0"></div>
+		<font face="arial" size=1 color="#f0f0f0">
+	</FONT>
+	</CENTER>
+</body>
+</html>
